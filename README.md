@@ -1,5 +1,5 @@
 # Emerson Madrid Herrera
-🚀 **Desarrollador .NET | Coordinador de Proyectos | MBA en Gestión de TI**  
+🚀 **Desarrollador .NET | Coordinador de Proyectos | MBA **  
 
 📌 **Experiencia técnica:**
 - 🖥️ Desarrollo en **.NET,Power Builder, C#, SQL Server,  PL-SQL**
