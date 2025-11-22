@@ -2,7 +2,7 @@
 🚀 **Desarrollador .NET | Coordinador de Proyectos | MBA **  
 
 📌 **Experiencia técnica:**
-- 🖥️ Desarrollo en **.NET,Power Builder, C#, SQL Server,  PL-SQL**
+- 🖥️ Desarrollo en **.NET, C#, Python, Bash, SQL Server,  Oracle, Power Builder**
 - 📊 Gestión y negociación de proyectos tecnológicos
 - 📂 Análisis, documentación y soporte de aplicaciones
 
