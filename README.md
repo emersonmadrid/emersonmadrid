@@ -2,12 +2,12 @@
 
 # Hi there, I'm Emerson Madrid 👋
 ### Senior Full-Stack Software Engineer & Solutions Architect
-**10+ Years Building Resilient Distributed Systems, Enterprise Fintech & Scalable Web Architectures**
+**10+ Years Building Production Systems in Fintech, HealthTech & Cloud Architectures**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Emerson%20Madrid-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emersonmadrid/)
 [![Email](https://img.shields.io/badge/Email-emersonmadrid%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emersonmadrid@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-PRO-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/emersonmadrid)
-[![Location](https://img.shields.io/badge/Remote-Available%20Worldwide-brightgreen?style=for-the-badge)](mailto:emersonmadrid@gmail.com)
+[![Remote](https://img.shields.io/badge/Remote-Available%20Worldwide-brightgreen?style=for-the-badge)](mailto:emersonmadrid@gmail.com)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=emersonmadrid&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
@@ -17,15 +17,41 @@
 
 ---
 
-### 👨‍💻 About Me
+### 👨‍💻 Executive Summary
 
-- 💼 **Background:** Over a decade of hands-on engineering experience designing, deploying, and modernizing enterprise software architectures across banking, telecommunications, and financial technology.
-- 🚀 **Specialization:** 
-  - **Backend & Distributed Systems:** High-throughput transactional APIs, .NET 8 / C#, SQL Server, Clean Architecture, and Domain-Driven Design (DDD).
-  - **Modern Frontend Engineering:** High-performance Single Page Applications (SPAs) with **React 19**, **TypeScript**, and **Tailwind CSS**.
-  - **System Modernization:** Seamlessly refactoring complex monolithic legacy stacks into modern, decoupled web architectures without downtime.
-- 🛡️ **Security Focus:** Banking-grade standards, anti-CSRF protections, server-side anti-IDOR validation, and cryptographic data protection.
+I am a **Senior Full-Stack Engineer and Solutions Architect** with over a decade of technical leadership, designing and deploying mission-critical systems across **Financial Technology (Fintech)**, **Clinical Healthcare (HealthTech)**, and **Enterprise SaaS**.
+
+Unlike purely theoretical projects, my work includes **active production platforms** handling daily clinical operations, patient automation, and financial transactions.
+
+- 🚀 **Core Expertise:**
+  - **Enterprise Backend:** Resilient, high-throughput transactional APIs with **.NET 8 / C#**, **ASP.NET MVC**, and **Microsoft SQL Server** (ACID Stored Procedures).
+  - **Modern Reactive Frontend:** High-performance Single Page Applications (SPAs) built with **React 19**, **TypeScript**, and **Tailwind CSS**.
+  - **Operational Automation & AI:** Conversational commerce and appointment scheduling bots integrated into real-world business workflows.
+  - **System Modernization:** Transforming monolithic legacy applications into decoupled, cloud-ready architectures without business downtime.
+- 🛡️ **Security & Compliance:** Anti-IDOR server validation, Anti-CSRF tokens, cryptographic hashing (SHA-256), and confidential data protection for medical and banking records.
 - 📍 **Location:** Lima, Peru (UTC-5) — **Available for full-time remote roles worldwide (US / Europe / LatAm)**.
+
+---
+
+### 🌟 Featured Production & Open-Source Showcase
+
+#### 💱 [HomeChange — Enterprise Fintech FX Platform](https://github.com/emersonmadrid/homechange-fintech)
+> **Domain:** Financial Technology • **Stack:** React 19 • TypeScript • Tailwind CSS • ASP.NET MVC 5 • C# • SQL Server • MIT
+- **Live FX Engine:** Real-time currency exchange calculator (USD ⇄ PEN) with transaction rate-locking.
+- **Multi-Bank Management:** Bank account registration and verification for personal, corporate, and third-party recipients.
+- **Hybrid Modernization:** Architectural migration from legacy MVC into a fast React 19 SPA with full bilingual internationalization (EN/ES).
+- **Bank-Grade Security:** Multi-layered security suite including server-side IDOR prevention and SHA-256 password hashing.
+
+#### 🩺 [Feliz Horizonte — Clinical HealthTech & Practice Automation Suite](https://github.com/emersonmadrid)
+> **Domain:** Healthcare & Psychology Practice • **Stack:** Full-Stack Architecture • Automated Schedulers • WhatsApp Bots • Production
+- **Active Clinical Operations:** Currently powering day-to-day operations for an active clinical psychology practice.
+- **Automated Patient Scheduling:** Custom bot engine and background schedulers handling patient appointment bookings and automated reminders.
+- **Electronic Health Records (EHR):** Secure clinical histories and confidential patient record management.
+- **Impact:** Reduced clinic no-show rates and virtually eliminated manual booking overhead.
+
+#### ☁️ [EEDI SaaS — Scalable Multi-Tier Cloud Platform](https://github.com/emersonmadrid/eedi-saas)
+> **Domain:** Cloud B2B SaaS • **Stack:** Decoupled Backend & Frontend • Automated CI/CD • Cloud Native
+- Complete multi-tenant SaaS architecture with separated API and frontend layers, complete with infrastructure deployment manifests (`render.yaml`).
 
 ---
 
@@ -45,18 +71,6 @@
 
 ---
 
-### ⭐ Featured Open-Source Showcase
-
-#### 💱 [HomeChange — Enterprise Fintech Currency Exchange Platform](https://github.com/emersonmadrid/homechange-fintech)
-> **Stack:** React 19 • TypeScript • Tailwind CSS • ASP.NET MVC 5 • C# • SQL Server • MIT License
-
-- **Live FX Engine:** Real-time currency exchange conversion and rate-locking mechanisms (USD ⇄ PEN).
-- **Multi-Bank Architecture:** Verified bank account management supporting personal, corporate, and third-party recipients.
-- **Architectural Modernization:** Clean hybrid architecture demonstrating how to transition legacy systems into high-speed Single Page Applications (SPAs).
-- **Enterprise Security:** Cryptographic password hashing (SHA-256), multi-level anti-IDOR validation, and dynamic bilingual internationalization (EN/ES).
-
----
-
 ### 📊 GitHub Activity & Insights
 
 <div align="center">
@@ -72,16 +86,16 @@
 
 ---
 
-### 📬 Get In Touch
+### 📬 Let's Connect
 
-Whether you're looking for a **Senior Full-Stack Engineer**, consulting on **system modernization & Fintech architectures**, or simply want to connect:
+Looking for a **Senior Full-Stack Engineer**, **Technical Architect**, or consulting on **System Modernization, Fintech & HealthTech implementations**?
 
 - 💼 **LinkedIn:** [linkedin.com/in/emersonmadrid](https://www.linkedin.com/in/emersonmadrid/)
 - 📧 **Direct Email:** [emersonmadrid@gmail.com](mailto:emersonmadrid@gmail.com)
-- 🌐 **GitHub:** [@emersonmadrid](https://github.com/emersonmadrid)
+- 🌐 **GitHub Profile:** [@emersonmadrid](https://github.com/emersonmadrid)
 
 ---
 
 <div align="center">
-  <sub>⭐️ <i>"Excellence is not an act, but a habit."</i> — Crafted with clean architecture & code integrity.</sub>
+  <sub>⭐️ <i>"Proven software is software that solves real business problems in production."</i> — Crafted with architectural precision.</sub>
 </div>
