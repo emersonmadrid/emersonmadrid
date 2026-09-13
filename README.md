@@ -7,7 +7,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Emerson%20Madrid-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emersonmadrid/)
 [![Email](https://img.shields.io/badge/Email-emersonmadrid%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:emersonmadrid@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-PRO-black?style=flat-square&logo=github&logoColor=white)](https://github.com/emersonmadrid)
-[![Remote](https://img.shields.io/badge/Remote-Available%20Worldwide-brightgreen?style=flat-square)](mailto:emersonmadrid@gmail.com)
+[![Remote](https://img.shields.io/badge/Remote-Available%20for%20Roles-brightgreen?style=flat-square)](mailto:emersonmadrid@gmail.com)
 
 </div>
 
@@ -20,8 +20,8 @@ I am a **Licensed Systems & Business Engineer (CIP)** and **MBA graduate** speci
 My work bridges business requirements, process efficiency, and technical implementation:
 - **Backend & APIs:** C#, .NET 8 / .NET Framework, ASP.NET MVC/Web API, and Microsoft SQL Server.
 - **Frontend & Modern Web:** React 19, TypeScript, and Tailwind CSS.
-- **Security & Integrity:** Application-level Anti-CSRF tokens, server-side Anti-IDOR validation, SHA-256 cryptographic password hashing, and ACID transactional Stored Procedures.
-- **Location:** Lima, Peru (UTC-5) • **Available for full-time remote roles worldwide**.
+- **Security & Integrity:** Application-level Anti-CSRF tokens, server-side Anti-IDOR validation, secure session management, and ACID transactional Stored Procedures.
+- **Location:** Lima, Peru (UTC-5) • **Available for remote positions (Full-time / Contract)**.
 
 ---
 
@@ -32,7 +32,7 @@ My work bridges business requirements, process efficiency, and technical impleme
 
 An open-source demonstration of **enterprise system modernization**: refactoring an ASP.NET MVC architecture into a decoupled Single Page Application (SPA) with live bilingual internationalization (EN/ES).
 - **Core Features:** Real-time FX conversion calculator (USD ⇄ PEN), multi-bank account management, order workflow with transfer receipt upload.
-- **Security Practices:** RequestVerificationToken on all asynchronous requests, database-backed ownership validation (Anti-IDOR), and SHA-256 password hashing.
+- **Security Practices:** RequestVerificationToken on all asynchronous requests, database-backed ownership validation (Anti-IDOR), and protected credential flows.
 - **Database Consistency:** T-SQL Stored Procedures with explicit transaction handling (`BEGIN TRAN`, `COMMIT`, `ROLLBACK`).
 
 ---
