@@ -21,7 +21,7 @@ My work bridges business requirements, process efficiency, and technical impleme
 - **Backend & APIs:** C#, .NET 8 / .NET Framework, ASP.NET MVC/Web API, and Microsoft SQL Server.
 - **Frontend & Modern Web:** React 19, TypeScript, and Tailwind CSS.
 - **Security & Integrity:** Application-level Anti-CSRF tokens, server-side Anti-IDOR validation, secure session management, and ACID transactional Stored Procedures.
-- **Location:** Lima, Peru (UTC-5) • **Available for remote positions (Full-time / Contract)**.
+- **Location:** Lima, Peru (UTC-5) • **Bilingual (English/Spanish)** • **Available for remote positions (Full-time / Contract)**.
 
 ---
 
@@ -52,7 +52,7 @@ An open-source demonstration of **enterprise system modernization**: refactoring
 - **Languages & Frameworks:** C#, .NET 8 / Framework 4.8, ASP.NET MVC, React 19, TypeScript, Python, SQL (T-SQL).
 - **Frontend Tools:** Tailwind CSS, Vite, HTML5, CSS3.
 - **Databases:** Microsoft SQL Server (LocalDB / Express / Enterprise), PostgreSQL.
-- **Architecture & Practices:** Clean Architecture, 4-Layer Pattern, REST APIs, Anti-IDOR, Anti-CSRF, i18n.
+- **Architecture & Practices:** Clean Architecture, REST APIs, Anti-IDOR, Anti-CSRF, i18n, AI-Augmented Development (Copilot/LLMs).
 - **DevOps & Environment:** Git, GitHub Actions, Docker, Visual Studio 2022, IIS Express.
 
 ---
