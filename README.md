@@ -1,8 +1,8 @@
 <div align="center">
 
 # Hi there, I'm Emerson Madrid, MBA 👋
-### Senior Full-Stack & Automation Engineer | SaaS Founder
-**Python (FastAPI • Scraping • OCR/AI Pipelines) • React & TypeScript • C# / .NET**  
+### Senior Full-Stack, Database & Automation Engineer | SaaS Founder
+**Python (FastAPI • Scraping • OCR/AI) • React & TypeScript • C# / .NET • SQL Server • Oracle • IBM Informix**  
 *Licensed Systems & Business Engineer (CIP) • Master of Business Administration (MBA)*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Emerson%20Madrid-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emersonmadrid/)
@@ -16,11 +16,11 @@
 
 ### 👨‍💻 Engineering Profile
 
-I am a **Senior Full-Stack & Automation Engineer** based in **Lima, Peru (UTC-5 / US Eastern Time aligned)** with deep experience designing, building, and operating production SaaS platforms, resilient data-extraction pipelines, and enterprise web applications.
+I am a **Senior Full-Stack, Enterprise Database & Automation Engineer** based in **Lima, Peru (UTC-5 / US Eastern Time aligned)** with extensive experience in mission-critical relational databases, enterprise backend architectures, resilient data-extraction pipelines, and modern SaaS platforms.
 
+- **🗄️ Enterprise Relational Databases & Data Engineering:** Deep expertise in **Microsoft SQL Server (T-SQL)**, **Oracle Database (PL/SQL)**, and **IBM Informix (Informix SQL / 4GL / Stored Procedures)**, as well as **PostgreSQL** and **SQLite** — specializing in complex query optimization, ACID transactional stored procedures, legacy data migration, and high-volume financial/enterprise workloads.
 - **🐍 Python Backend & High-Resilience Scraping:** FastAPI, asynchronous workers, stealth browser automation (**Camoufox / Playwright / Selenium**), **WAF / Anti-Bot bypass** (Imperva / Radware / Cloudflare), and ultra-fast **OCR / CNN CAPTCHA pipelines** (`ddddocr`, EasyOCR, PyTorch) executing in `<200ms`.
-- **⚛️ Modern Frontend & Full-Stack Web:** React 19, TypeScript, Tailwind CSS, Next.js, and decoupled RESTful APIs.
-- **🏢 Enterprise Architecture:** C#, .NET 8 / ASP.NET MVC, Microsoft SQL Server (ACID Stored Procedures), PostgreSQL, and SQLite.
+- **⚛️ Modern Frontend & Enterprise .NET:** React 19, TypeScript, Tailwind CSS, C#, .NET 8 / ASP.NET MVC, and decoupled RESTful APIs.
 - **🤖 Business Process & Messaging Automation:** Real-time WhatsApp alert pipelines, programmatic `.docx` / PDF report generation, and Google Ads API programmatic optimization.
 
 ---
@@ -44,7 +44,7 @@ I am a **Senior Full-Stack & Automation Engineer** based in **Lima, Peru (UTC-5 
 | Repository | Tech Stack | Highlight |
 | :--- | :--- | :--- |
 | **[CalexaScraping](https://github.com/emersonmadrid/CalexaScraping)** | `Python` `Selenium` `CNN` `EasyOCR` `Tesseract` | Automated judicial record scraper featuring an ensemble ML/CNN + OCR CAPTCHA resolution pipeline and CLI training harness. |
-| **[AppHomeWeb](https://github.com/emersonmadrid/AppHomeWeb)** | `React` `TypeScript` `C#` `ASP.NET MVC` `SQL Server` | Multi-tier FinTech currency exchange application (USD ⇄ PEN) with Anti-CSRF/Anti-IDOR protection, ACID stored procedures, and Azure Pipelines CI/CD. |
+| **[AppHomeWeb](https://github.com/emersonmadrid/AppHomeWeb)** | `React` `TypeScript` `C#` `ASP.NET MVC` `SQL Server` | Multi-tier FinTech currency exchange application (USD ⇄ PEN) with Anti-CSRF/Anti-IDOR protection, ACID T-SQL stored procedures, and Azure Pipelines CI/CD. |
 | **[hc-report-generator](https://github.com/emersonmadrid/hc-report-generator)** | `Python` `python-docx` `Automation` | Automated document generation engine converting structured clinical/business data into formatted Word (`.docx`) reports. |
 | **[utilitariopy](https://github.com/emersonmadrid/utilitariopy)** | `Python` `CLI` `Text Processing` | Modular Python library (`TextoUtils`) for high-speed file parsing, regex sanitization, comment stripping, and batch text transformations. |
 
@@ -52,7 +52,8 @@ I am a **Senior Full-Stack & Automation Engineer** based in **Lima, Peru (UTC-5 
 
 ### 🛠️ Tech Stack & Core Competencies
 
-- **Languages:** Python, TypeScript, JavaScript (ES6+), C#, SQL (T-SQL / PostgreSQL / SQLite), Bash.
+- **Enterprise Databases:** **Microsoft SQL Server (T-SQL)**, **Oracle Database (PL/SQL)**, **IBM Informix**, **PostgreSQL**, **SQLite** (Stored Procedures, Triggers, Query Tuning, ETL & Legacy Migrations).
+- **Languages:** Python, SQL (T-SQL / PL/SQL / Informix SQL), TypeScript, JavaScript (ES6+), C#, Bash.
 - **Backend & Automation:** FastAPI, ASP.NET Core / MVC, Camoufox, Playwright, Selenium, `ddddocr`, EasyOCR, `python-docx`, Google Ads API.
 - **Frontend:** React 19, Tailwind CSS, Vite, HTML5, CSS3.
 - **Security & Data Integrity:** WAF/Anti-Bot Evasion, Anti-CSRF, Anti-IDOR ownership validation, ACID Transactions, OAuth2.
