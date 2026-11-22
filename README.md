@@ -1,72 +1,67 @@
 <div align="center">
 
 # Hi there, I'm Emerson Madrid, MBA 👋
-### Senior Full-Stack Engineer & Solutions Architect
-**Licensed Systems & Business Engineer (CIP) • Master of Business Administration (MBA)**
+### Senior Full-Stack & Automation Engineer | SaaS Founder
+**Python (FastAPI • Scraping • OCR/AI Pipelines) • React & TypeScript • C# / .NET**  
+*Licensed Systems & Business Engineer (CIP) • Master of Business Administration (MBA)*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Emerson%20Madrid-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emersonmadrid/)
 [![Email](https://img.shields.io/badge/Email-emersonmadrid%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:emersonmadrid@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-PRO-black?style=flat-square&logo=github&logoColor=white)](https://github.com/emersonmadrid)
-[![Remote](https://img.shields.io/badge/Remote-Available%20for%20Roles-brightgreen?style=flat-square)](mailto:emersonmadrid@gmail.com)
+[![Location](https://img.shields.io/badge/Location-Lima%2C%20Peru%20(UTC--5%20%2F%20EST)-blue?style=flat-square)]()
+[![Remote](https://img.shields.io/badge/Remote-Available%20for%20US%20Contracts%20%26%20Async%20Projects-brightgreen?style=flat-square)](mailto:emersonmadrid@gmail.com)
 
 </div>
 
 ---
 
-### 👨‍💻 Profile Overview
+### 👨‍💻 Engineering Profile
 
-I am a **Licensed Systems & Business Engineer (CIP)** and **MBA graduate** specializing in building reliable backend architectures and modern web applications. 
+I am a **Senior Full-Stack & Automation Engineer** based in **Lima, Peru (UTC-5 / US Eastern Time aligned)** with deep experience designing, building, and operating production SaaS platforms, resilient data-extraction pipelines, and enterprise web applications.
 
-My work bridges business requirements, process efficiency, and technical implementation:
-- **Backend & APIs:** C#, .NET 8 / .NET Framework, ASP.NET MVC/Web API, and Microsoft SQL Server.
-- **Frontend & Modern Web:** React 19, TypeScript, and Tailwind CSS.
-- **Security & Integrity:** Application-level Anti-CSRF tokens, server-side Anti-IDOR validation, secure session management, and ACID transactional Stored Procedures.
-- **Location:** Lima, Peru (UTC-5) • **Bilingual (English/Spanish)** • **Available for remote positions (Full-time / Contract)**.
-
----
-
-### 💻 Featured Open-Source Project
-
-#### 💱 [HomeChange — Currency Exchange Platform](https://github.com/emersonmadrid/homechange-fintech)
-> **Stack:** React 19 • TypeScript • Tailwind CSS • ASP.NET MVC 5 • C# • SQL Server • MIT License
-
-An open-source demonstration of **enterprise system modernization**: refactoring an ASP.NET MVC architecture into a decoupled Single Page Application (SPA) with live bilingual internationalization (EN/ES).
-- **Core Features:** Real-time FX conversion calculator (USD ⇄ PEN), multi-bank account management, order workflow with transfer receipt upload.
-- **Security Practices:** RequestVerificationToken on all asynchronous requests, database-backed ownership validation (Anti-IDOR), and protected credential flows.
-- **Database Consistency:** T-SQL Stored Procedures with explicit transaction handling (`BEGIN TRAN`, `COMMIT`, `ROLLBACK`).
+- **🐍 Python Backend & High-Resilience Scraping:** FastAPI, asynchronous workers, stealth browser automation (**Camoufox / Playwright / Selenium**), **WAF / Anti-Bot bypass** (Imperva / Radware / Cloudflare), and ultra-fast **OCR / CNN CAPTCHA pipelines** (`ddddocr`, EasyOCR, PyTorch) executing in `<200ms`.
+- **⚛️ Modern Frontend & Full-Stack Web:** React 19, TypeScript, Tailwind CSS, Next.js, and decoupled RESTful APIs.
+- **🏢 Enterprise Architecture:** C#, .NET 8 / ASP.NET MVC, Microsoft SQL Server (ACID Stored Procedures), PostgreSQL, and SQLite.
+- **🤖 Business Process & Messaging Automation:** Real-time WhatsApp alert pipelines, programmatic `.docx` / PDF report generation, and Google Ads API programmatic optimization.
 
 ---
 
-### 💼 Real-World Applied Case Studies *(Proprietary / Client Deployments)*
+### 🚀 Production SaaS & Real-World Architecture Case Studies
 
-* **🩺 Clinical Management & Patient Automation (HealthTech):**  
-  Engineered and deployed an operational patient scheduling and automated notification system for an active clinical psychology practice, utilizing custom WhatsApp bot automation, background schedulers, and secure electronic health record storage.
+#### ⚖️ **IusMatrix — Autonomous LegalTech Docket Surveillance & Document SaaS** *(Production)*
+> **Stack:** Python • FastAPI • Camoufox (Stealth Browser) • `ddddocr` (Sub-200ms OCR) • SQLite • Jinja2 / Executive UI • WhatsApp Automation • `python-docx`
+- **24/7 Judicial Docket Monitoring:** Autonomous scraping engine that monitors Peruvian Judiciary (*Poder Judicial - CEJ*) dockets around the clock, bypassing enterprise WAF protection (Radware/Imperva) and solving image CAPTCHAs locally in **under 0.2 seconds**.
+- **Statutory Procedural Deadline Radar:** Algorithmic legal calendar computing exact business-day deadlines under the Civil Procedural Code (Art. 147 CPC), factoring in judicial holidays and regional suspensions.
+- **Automated Legal Brief & WhatsApp Engine:** Dispatches instant WhatsApp alerts attaching official court PDFs and programmatically generates court-ready `.docx` legal briefs formatted for Electronic Filing (*Mesa de Partes Electrónica*).
 
-* **☁️ Multi-Tier B2B Architecture (Enterprise SaaS):**  
-  Designed modular multi-tenant systems separating core business APIs from reactive frontend interfaces with automated cloud deployment pipelines.
-
----
-
-### 🛠️ Tech Stack & Tools
-
-- **Languages & Frameworks:** C#, .NET 8 / Framework 4.8, ASP.NET MVC, React 19, TypeScript, Python, SQL (T-SQL).
-- **Frontend Tools:** Tailwind CSS, Vite, HTML5, CSS3.
-- **Databases:** Microsoft SQL Server (LocalDB / Express / Enterprise), PostgreSQL.
-- **Architecture & Practices:** Clean Architecture, REST APIs, Anti-IDOR, Anti-CSRF, i18n, AI-Augmented Development (Copilot/LLMs).
-- **DevOps & Environment:** Git, GitHub Actions, Docker, Visual Studio 2022, IIS Express.
+#### 🩺 **Feliz Horizonte — Clinical Management, Patient Triage & Marketing Automation** *(Production)*
+> **Stack:** TypeScript • React • Node.js • Python • Google Ads API • WhatsApp Business Automation
+- End-to-end digital infrastructure for an online psychology and psychiatry clinic (`felizhorizonte.pe`), integrating automated patient scheduling, EHR management, WhatsApp reminder workflows, and programmatic Google Ads API campaign management.
 
 ---
 
-### 📊 GitHub Activity
+### 💻 Featured Open-Source Repositories
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=emersonmadrid&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Emerson's GitHub Stats" height="155" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emersonmadrid&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="155" />
-</div>
+| Repository | Tech Stack | Highlight |
+| :--- | :--- | :--- |
+| **[CalexaScraping](https://github.com/emersonmadrid/CalexaScraping)** | `Python` `Selenium` `CNN` `EasyOCR` `Tesseract` | Automated judicial record scraper featuring an ensemble ML/CNN + OCR CAPTCHA resolution pipeline and CLI training harness. |
+| **[AppHomeWeb](https://github.com/emersonmadrid/AppHomeWeb)** | `React` `TypeScript` `C#` `ASP.NET MVC` `SQL Server` | Multi-tier FinTech currency exchange application (USD ⇄ PEN) with Anti-CSRF/Anti-IDOR protection, ACID stored procedures, and Azure Pipelines CI/CD. |
+| **[hc-report-generator](https://github.com/emersonmadrid/hc-report-generator)** | `Python` `python-docx` `Automation` | Automated document generation engine converting structured clinical/business data into formatted Word (`.docx`) reports. |
+| **[utilitariopy](https://github.com/emersonmadrid/utilitariopy)** | `Python` `CLI` `Text Processing` | Modular Python library (`TextoUtils`) for high-speed file parsing, regex sanitization, comment stripping, and batch text transformations. |
 
 ---
 
-### 📬 Contact
+### 🛠️ Tech Stack & Core Competencies
 
+- **Languages:** Python, TypeScript, JavaScript (ES6+), C#, SQL (T-SQL / PostgreSQL / SQLite), Bash.
+- **Backend & Automation:** FastAPI, ASP.NET Core / MVC, Camoufox, Playwright, Selenium, `ddddocr`, EasyOCR, `python-docx`, Google Ads API.
+- **Frontend:** React 19, Tailwind CSS, Vite, HTML5, CSS3.
+- **Security & Data Integrity:** WAF/Anti-Bot Evasion, Anti-CSRF, Anti-IDOR ownership validation, ACID Transactions, OAuth2.
+- **DevOps & Tooling:** Linux, Git, GitHub Actions, Azure Pipelines, Docker, Ngrok, Neovim / VS Code.
+
+---
+
+### 📬 Contact & Collaboration
+
+- 🌎 **Time Zone:** UTC-5 (EST — 100% overlap with US East Coast)
+- 📧 **Email:** [emersonmadrid@gmail.com](mailto:emersonmadrid@gmail.com)
 - 💼 **LinkedIn:** [linkedin.com/in/emersonmadrid](https://www.linkedin.com/in/emersonmadrid/)
-- 📧 **Direct Email:** [emersonmadrid@gmail.com](mailto:emersonmadrid@gmail.com)
